@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+body {
+    border: 3px solid black;
+}
+div {
+    text-align: center;
+}
+#printN {
+    border: 3px solid black;
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+}
+#printLn {
+    border: 3px solid black;
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+}
